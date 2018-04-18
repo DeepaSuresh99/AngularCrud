@@ -1,7 +1,6 @@
 # AngularCrud
 
-I am learning angular2 online with video tutorials provided by youtube user kudvenkat. you can check his channel at youtube.com/kudvenkat
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
+I am learning angular2 online with video tutorials provided by youtube user kudvenkat. you can check his channel at www.youtube.com/kudvenkat. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
 
 ## Development server
 
